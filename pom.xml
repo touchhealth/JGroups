@@ -5,7 +5,7 @@
     <artifactId>jgroups</artifactId>
     <packaging>bundle</packaging>
     <name>JGroups</name>
-    <version>3.6.21.touch</version>
+    <version>3.6.22-SNAPSHOT</version>
     <url>http://www.jgroups.org</url>
 
     <description>
